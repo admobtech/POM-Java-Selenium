@@ -1,2 +1,2 @@
 # POM-Java-Selenium
-Template for POM Java + Selenium
+Template pf POM using Java + Selenium
